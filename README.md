@@ -1,2 +1,2 @@
 # samplerepo
-sample demo git hub
+git commit
